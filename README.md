@@ -4,7 +4,7 @@
 - 🔧 I'm interested in **Android development**, **database administration**, **system troubleshooting**, and **blockchain technologies**.
 - 📚 I'm currently learning **Python** through CS50, along with **Java**, **SQL**, and **C#** to deepen my programming skills.
 - 🤝 I'm looking to collaborate on **database projects**, **blockchain-related tools**, and **open-source Android apps**.
-- 📞 How to reach me: **johnvenice261999@gmail.com** | [GitHub](https://github.com/kalikot26)
+- 📞 How to reach me: [GitHub](https://github.com/kalikot26)
 
 ## 🧑‍💻 Projects
 - 🛫 [Flight Reservation App (Java)](https://github.com/kalikot26/FlightReservation) – 1st Runner-Up, STI CodeFest 2024
